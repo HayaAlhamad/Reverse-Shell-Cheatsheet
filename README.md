@@ -19,6 +19,7 @@ Creates an interactive Bash shell (-i) and redirects its standard output (stdout
 
 ### Use Case
 Ideal for systems where bash is available and the /dev/tcp feature is enabled.
+
 ---
 
 ### 2. Bash via File Descriptor
